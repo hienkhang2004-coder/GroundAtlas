@@ -61,7 +61,21 @@
 ## Yêu cầu hệ thống & Cài đặt
 
 - **Hệ điều hành:** Windows 10 / 11 (64-bit), card đồ họa hỗ trợ OpenGL 3.3 trở lên.
-- **Cài đặt:** Tải [`GroundAtlas-Desktop-2.3.1-Setup.exe`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.1-Setup.exe) (20 MB) và mở chạy trực tiếp — không cần quyền Admin, không cần cài thêm thư viện ngoài.
+- **Tùy chọn 1 — Bộ cài tiêu chuẩn (Khuyên dùng, 20.3 MB):** Tải [`GroundAtlas-Desktop-2.3.1-Setup.exe`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.1-Setup.exe) và mở chạy trực tiếp — không cần quyền Admin, tự tạo biểu tượng Desktop/Start Menu và liên kết file `.gatlas`.
+- **Tùy chọn 2 — Bản Portable không cần cài đặt (27.5 MB):** Tải [`GroundAtlas-Desktop-2.3.1-Portable-Win64.zip`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.1-Portable-Win64.zip) → giải nén → mở `GroundAtlas.exe` chạy ngay.
+
+### 🛡️ Lưu ý khi Windows hiện cảnh báo xanh (Windows SmartScreen / Smart App Control)
+
+Vì **GroundAtlas Desktop** là phần mềm độc lập mới phát hành chưa gắn chứng chỉ ký số trả phí của Microsoft, lần đầu mở file vừa tải từ mạng Windows có thể hiện màn hình xanh **"Windows protected your PC" (*Unknown publisher*)**. Ứng dụng hoàn toàn sạch 100% (thuần mã máy C++20/Qt6/OpenGL):
+
+1. **Cách nhanh nhất (SmartScreen):** Bấm chữ **`More info` (Thông tin thêm)** → bấm nút **`Run anyway` (Vẫn chạy)** để cài đặt bình thường.
+2. **Hoặc bỏ chặn trước khi mở:** Chuột phải vào file vừa tải → chọn **Properties (Thuộc tính)** → ở góc dưới tích ô **`Unblock` (Bỏ chặn)** → bấm **Apply → OK**, rồi mở file (nếu dùng bản `.zip`, hãy `Unblock` file `.zip` trước khi giải nén).
+3. **Kiểm chứng toàn vẹn tệp (`SHA-256`) & Quét VirusTotal:**
+
+| Tệp phát hành | Dung lượng | Mã băm `SHA-256` ([`SHA256SUMS.txt`](SHA256SUMS.txt)) | Kiểm tra |
+|---|---:|---|---|
+| `GroundAtlas-Desktop-2.3.1-Setup.exe` | 20.31 MB | `8a6146c4401466cec472fe34cd34761b6e5b0af43535ae0f657bb4fb381bf338` | [VirusTotal ↗](https://www.virustotal.com/gui/file/8a6146c4401466cec472fe34cd34761b6e5b0af43535ae0f657bb4fb381bf338) |
+| `GroundAtlas-Desktop-2.3.1-Portable-Win64.zip` | 27.47 MB | `ca0819beafb04b723f54603a998d314ed54f297b1c7a3ec54d87c685181547ff` | [VirusTotal ↗](https://www.virustotal.com/gui/file/ca0819beafb04b723f54603a998d314ed54f297b1c7a3ec54d87c685181547ff) |
 
 ## Giấy phép nguồn mở & Dữ liệu
 
