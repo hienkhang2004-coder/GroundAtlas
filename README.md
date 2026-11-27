@@ -4,8 +4,8 @@
 > Nạp hiện trạng khu đất OpenStreetMap toàn cầu trong 2 giây, đè lớp quy hoạch 2D/3D, nhập trực tiếp SketchUp `.skp`, cắt mặt cắt A–A' sống và xuất trọn Bộ hồ sơ kiến trúc 8 tệp chỉ với 1 cú bấm.
 
 <p align="center">
-  <a href="https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.2-Setup.exe">
-    <strong>⬇ Tải bản cài Windows x64 miễn phí (v2.3.2 · 43 MB)</strong>
+  <a href="https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.3-Setup.exe">
+    <strong>⬇ Tải bản cài Windows x64 miễn phí (v2.3.3 · 47.6 MB)</strong>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://groundatlas-license-server.groundatlas.workers.dev/">
@@ -60,9 +60,9 @@
 
 ## Yêu cầu hệ thống & Cài đặt
 
-- **Hệ điều hành:** Windows 10 / 11 (64-bit), card đồ họa hỗ trợ OpenGL 3.3 trở lên (tương thích đầy đủ NVIDIA, AMD Radeon & Intel UHD/Iris Xe từ bản `v2.3.2`).
-- **Tùy chọn 1 — Bộ cài tiêu chuẩn (Khuyên dùng, 43.1 MB):** Tải [`GroundAtlas-Desktop-2.3.2-Setup.exe`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.2-Setup.exe) và mở chạy trực tiếp — không cần quyền Admin, tự tạo biểu tượng Desktop/Start Menu và liên kết file `.gatlas`.
-- **Tùy chọn 2 — Bản Portable không cần cài đặt (50.4 MB):** Tải [`GroundAtlas-Desktop-2.3.2-Portable-Win64.zip`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.2-Portable-Win64.zip) → giải nén → mở `GroundAtlas.exe` chạy ngay.
+- **Hệ điều hành:** Windows 10 / 11 (64-bit) — **tương thích mọi cấu hình từ `v2.3.3`** (NVIDIA, AMD Radeon, Intel HD/UHD/Iris Xe, màn hình DPI lẻ 125%/150%/175%, tự động tự cứu lỗi driver GPU, bản đồ ảnh CPU dự phòng chống đen nền và **Chế độ An toàn Software OpenGL** cho máy đời cũ / máy ảo / RDP).
+- **Tùy chọn 1 — Bộ cài tiêu chuẩn (Khuyên dùng, 47.6 MB):** Tải [`GroundAtlas-Desktop-2.3.3-Setup.exe`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.3-Setup.exe) và mở chạy trực tiếp — không cần quyền Admin, tự tạo biểu tượng Desktop, Start Menu (kèm lối tắt **Chế độ an toàn · Safe Mode**) và liên kết file `.gatlas`.
+- **Tùy chọn 2 — Bản Portable không cần cài đặt (56.9 MB):** Tải [`GroundAtlas-Desktop-2.3.3-Portable-Win64.zip`](https://github.com/hienkhang2004-coder/GroundAtlas/raw/main/GroundAtlas-Desktop-2.3.3-Portable-Win64.zip) → giải nén → mở `GroundAtlas.exe` chạy ngay.
 
 ### 🛡️ Lưu ý khi Windows hiện cảnh báo xanh (Windows SmartScreen / Smart App Control)
 
@@ -74,8 +74,8 @@ Vì **GroundAtlas Desktop** là phần mềm độc lập mới phát hành chư
 
 | Tệp phát hành | Dung lượng | Mã băm `SHA-256` ([`SHA256SUMS.txt`](SHA256SUMS.txt)) | Kiểm tra |
 |---|---:|---|---|
-| `GroundAtlas-Desktop-2.3.2-Setup.exe` | 43.09 MB | `4fc03908e9f7778a2f52bd23f3684e916abce2e83a0718f64a95498c68819f73` | [VirusTotal ↗](https://www.virustotal.com/gui/file/4fc03908e9f7778a2f52bd23f3684e916abce2e83a0718f64a95498c68819f73) |
-| `GroundAtlas-Desktop-2.3.2-Portable-Win64.zip` | 50.41 MB | `68250c09a6c631d6948bb1cc2b878c64ad580b9c5a6edb30f917b25902e0c7cc` | [VirusTotal ↗](https://www.virustotal.com/gui/file/68250c09a6c631d6948bb1cc2b878c64ad580b9c5a6edb30f917b25902e0c7cc) |
+| `GroundAtlas-Desktop-2.3.3-Setup.exe` | 47.55 MB | `94c85fc98f03f975af0e4618ef959086a4781a0e6d51a8624d398cae0afb719d` | [VirusTotal ↗](https://www.virustotal.com/gui/file/94c85fc98f03f975af0e4618ef959086a4781a0e6d51a8624d398cae0afb719d) |
+| `GroundAtlas-Desktop-2.3.3-Portable-Win64.zip` | 56.85 MB | `46bf4404302fa622ec3574b8df27270141327b98c23b9d2bbb54951341b6e4de` | [VirusTotal ↗](https://www.virustotal.com/gui/file/46bf4404302fa622ec3574b8df27270141327b98c23b9d2bbb54951341b6e4de) |
 
 ## Giấy phép nguồn mở & Dữ liệu
 

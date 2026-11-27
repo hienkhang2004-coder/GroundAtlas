@@ -1,2 +1,2 @@
-4fc03908e9f7778a2f52bd23f3684e916abce2e83a0718f64a95498c68819f73  GroundAtlas-Desktop-2.3.2-Setup.exe
-68250c09a6c631d6948bb1cc2b878c64ad580b9c5a6edb30f917b25902e0c7cc  GroundAtlas-Desktop-2.3.2-Portable-Win64.zip
+94c85fc98f03f975af0e4618ef959086a4781a0e6d51a8624d398cae0afb719d  GroundAtlas-Desktop-2.3.3-Setup.exe
+46bf4404302fa622ec3574b8df27270141327b98c23b9d2bbb54951341b6e4de  GroundAtlas-Desktop-2.3.3-Portable-Win64.zip
